@@ -1,0 +1,20 @@
+
+.bgimg{
+	background-image: url('1.jpg');
+
+}
+
+.pillar{
+border-top: 1.00pt solid #000000; 
+border-bottom: 1.00pt solid #000000; 
+border-left: 1.00pt solid #000000;
+ border-right: none; 
+ padding: 0in
+}
+
+.western input{
+	width: 50px;
+	height: 55px;
+	margin-left: 2px;
+	border: none
+}
